@@ -1,3 +1,3 @@
 # homework3
 
-![Pycharm Screenshot](https://github.com/ierodriguez/homework3/blob/3e45ead7f8726feba2284f68949d16d7e50fe2b1/hw3Pycharm.png)
+![Pycharm Screenshot](https://github.com/ierodriguez/homework3/blob/53c13c3106f5bdbbb94b73d38fd97a4d108f83b6/hw3Pycharm.png)
